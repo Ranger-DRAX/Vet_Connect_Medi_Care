@@ -1,0 +1,30 @@
+.forum-post-list {
+  max-width: 800px;
+  margin: auto;
+  padding: 2rem;
+}
+
+.forum-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 2rem;
+}
+
+.forum-header h2 {
+  font-size: 2rem;
+  color: #333;
+}
+
+.new-post-button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 0.5rem 1rem;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.new-post-button:hover {
+  background-color: #45a049;
+}

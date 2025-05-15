@@ -1,0 +1,31 @@
+.forum-card {
+  background: #fff;
+  border: 1px solid #ddd;
+  padding: 1rem 1.5rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+  margin-bottom: 1rem;
+}
+
+.forum-title {
+  font-size: 1.25rem;
+  font-weight: bold;
+  color: #4b0082;
+  margin-bottom: 0.5rem;
+}
+
+.forum-text {
+  font-size: 1rem;
+  color: #444;
+  margin-bottom: 1rem;
+  white-space: pre-wrap;
+}
+
+.forum-footer {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.875rem;
+  color: #777;
+  border-top: 1px solid #eee;
+  padding-top: 0.5rem;
+}
